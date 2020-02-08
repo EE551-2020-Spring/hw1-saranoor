@@ -14,7 +14,8 @@ def numbers_and_strings():
     x = "EE551"
 
     # Assign a string "Stevens" to a variable y
-
+	y = "Stevens"
+	
     # Repeat variable y 5 times
 
     # What is the length of z?
